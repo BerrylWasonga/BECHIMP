@@ -1,0 +1,19 @@
+{
+   "name": "Berryl Wasonga Portfolio",
+   "short_name": "Berryl Portfolio",
+   "icons": [
+      {
+         "src": "/favicon.png",
+         "sizes": "512x512",
+         "type": "image/png"
+      },
+      {
+         "src": "/favicon.ico",
+         "sizes": "48x48",
+         "type": "image/x-icon"
+      }
+   ],
+   "theme_color": "#FFFFFF",
+   "background_color": "#FFFFFF",
+   "display": "standalone"
+}
