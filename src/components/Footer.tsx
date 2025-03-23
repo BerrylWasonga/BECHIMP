@@ -1,4 +1,4 @@
-import { Github, X, Linkedin, Mail} from 'lucide-react';
+import { Github, X, Linkedin, Mail, MapPin} from 'lucide-react';
 
 export function Footer() {
   return (
@@ -17,8 +17,9 @@ export function Footer() {
                   berrylwasonga@gmail.com
                 </a>
               </li>
-              <li className="text-gray-600 dark:text-gray-300">
-                Nairobi, Kenya
+              <li className="text-gray-600 dark:text-gray-300 flex items-center">
+                <MapPin className="w-4 h-4 mr-2" />
+                <span>Nairobi, Kenya</span>
               </li>
             </ul>
           </div>

@@ -13,17 +13,17 @@ export function About() {
             <div className="grid grid-cols-3 gap-4">
               <div className="text-center">
                 <Briefcase className="w-8 h-8 mx-auto text-purple-600 mb-2" />
-                <p className="font-semibold text-gray-900 dark:text-white">20+</p>
+                <p className="font-semibold text-gray-900 dark:text-white">5</p>
                 <p className="text-sm text-gray-500 dark:text-gray-400">Projects</p>
               </div>
               <div className="text-center">
                 <Users className="w-8 h-8 mx-auto text-purple-600 mb-2" />
-                <p className="font-semibold text-gray-900 dark:text-white">10+</p>
+                <p className="font-semibold text-gray-900 dark:text-white">3</p>
                 <p className="text-sm text-gray-500 dark:text-gray-400">Clients</p>
               </div>
               <div className="text-center">
                 <Award className="w-8 h-8 mx-auto text-purple-600 mb-2" />
-                <p className="font-semibold text-gray-900 dark:text-white">15+</p>
+                <p className="font-semibold text-gray-900 dark:text-white">3</p>
                 <p className="text-sm text-gray-500 dark:text-gray-400">Awards</p>
               </div>
             </div>

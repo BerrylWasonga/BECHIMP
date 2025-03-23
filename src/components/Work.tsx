@@ -10,9 +10,19 @@ const projects = [
     description: "Fresh and organic produce, straight from the farm!"
   },
   {
-    title: "Crafting Digital Experiences & Web Solutions",
-    image: "/img/lp.png",
-    description: "Showcasing my projects in web development and digital innovation. 🚀"
+    title: "League Registration and Attendance System ",
+    image: "/img/lr.png",
+    description: "League management app for youth registration, attendance, and team search. ⚽"
+  },
+  {
+    title: "✨ Pixels & Code by Berrly Wasonga 💻🚀",
+    image: "/img/lpp.png",
+    description: "Front-end developer passionate about building interactive and user-friendly web apps 🚀. "
+  },
+  {
+    title: "🌍 Women Who Build: Shaping the Future",
+    image: "/img/iwd.png",
+    description: "Honoring women in tech who are breaking barriers and shaping the future. 🚀💜 #SheCodes #IWD2025"
   }
 ];
 
