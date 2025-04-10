@@ -23,6 +23,11 @@ const projects = [
     title: "🌍 Women Who Build: Shaping the Future",
     image: "/img/iwd.png",
     description: "Honoring women in tech who are breaking barriers and shaping the future. 🚀💜 #SheCodes #IWD2025"
+  },
+    {
+    title: "📊 Student Enrolment System",
+    image: "/img/iwd.png",
+    description: "A backend/full-stack system (Node.js + MongoDB) handling student registrations, course allocation, and admin dashboards. Features JWT auth, PDF generation, and RESTful APIs"
   }
 ];
 
