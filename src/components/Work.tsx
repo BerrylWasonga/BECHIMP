@@ -26,7 +26,7 @@ const projects = [
   },
     {
     title: "📊 Student Enrolment System",
-    image: "/img/iwd.png",
+    image: "/img/ses.png",
     description: "A backend/full-stack system (Node.js + MongoDB) handling student registrations, course allocation, and admin dashboards. Features JWT auth, PDF generation, and RESTful APIs"
   }
 ];
